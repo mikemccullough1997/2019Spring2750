@@ -1,17 +1,4 @@
-name = "Austin"
-height_m = (1.85)
 
-weight_kg = (99.79)
-bmi = weight_kg / (height_m ** 2)
-print("bmi:    ")
-print(bmi)
-if bmi > 25:
-    print(name)
-    print("is overweight")
-else:
-    print(name)
-    print("is NOT overweight")
-print("sorry dude haha")
 
 
 

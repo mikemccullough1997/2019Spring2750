@@ -9,7 +9,7 @@ i) What are Primitive Elements?
 Primitive elements are objects in Python that are capable of storing a single value. These elements are the most basic and are seperated into four variable types: Integers, Floats, Strings, and Boolean. In this chapter, we've discussed the three types of object classifications of numbers. Numbers in Python can be represented as an integer, floating point, or a complex nubmer. 
 
 ii) How can we combine primitive elements?
-We can combine primitive elements by using assignment variables
+We can combine primitive elements by using assignment statements/variables
 
 iii) What number is represented by 319e5?
 Answer: 4,335.67
