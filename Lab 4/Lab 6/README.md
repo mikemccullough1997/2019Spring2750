@@ -1,0 +1,1 @@
+In chapter 7, we took a dive into cluster analysis which groups data into "clusters" with the use of algorithms. Cluster analysis can be essential when viewing data and searching for patters, trends, and possible solutions.
